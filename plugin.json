@@ -1,0 +1,36 @@
+{
+  "slug": "StrangeAttractor",
+  "name": "Strange Attractor",
+  "version": "1.0.0",
+  "license": "MIT",
+  "brand": "Strange Attractor",
+  "author": "",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "GraN",
+      "name": "gran",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "Frac",
+      "name": "Fractal oscilator",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "Attractor",
+      "name": "Chaotic attractors",
+      "description": "",
+      "tags": []
+    },
+
+  ]
+}
