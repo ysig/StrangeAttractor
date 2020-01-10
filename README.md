@@ -13,15 +13,16 @@ This idea is explored with **Frac** a fractal vco that generates signals of two 
 # Attractor
 Why not use chaotic attractors for modulating signals?
 
-For that we developed almost all teh attractors found [here](https://examples.pyviz.org/attractors/attractors.html), namely:
-- Clifford
-- De_Jong
-- Svensson
-- Bedhead
-- Dream
-- HopalongA
-- HopalongB
--	Gumowski_Mira
+For that we developed almost all the attractors found [here](https://examples.pyviz.org/attractors/attractors.html), namely:
+
+1. Clifford
+2. De-Jong
+3. Svensson
+4. Bedhead
+5. Dream
+6. Hopalong-A
+7. Hopalong-B
+8. Gumowski-Mira
 
 
 I'am new in audio-synthesis with vcv-rack so all patches are under development.
