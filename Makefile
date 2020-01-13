@@ -1,5 +1,5 @@
 # If RACK_DIR is not defined when calling the Makefile, default to two directories above
-RACK_DIR ?= /home/mary/Rack-SDK
+RACK_DIR ?= ../../
 
 # FLAGS will be passed to both the C and C++ compiler
 FLAGS +=
@@ -15,8 +15,7 @@ SOURCES += $(wildcard src/*.cpp)
 
 # Add files to the ZIP package when running `make dist`
 # The compiled plugin and "plugin.json" are automatically added.
-DISTRIBUTABLES += res
-DISTRIBUTABLES += $(wildcard LICENSE*)
+DISTRIBUTABLES += $(wildcard LICENSE*) res
 
 # Include the Rack plugin Makefile framework
 include $(RACK_DIR)/plugin.mk
