@@ -28,9 +28,20 @@
     {
       "slug": "Attractor",
       "name": "Chaotic attractors",
-      "description": "",
+      "description": "A set of chaotic attractors found in https://examples.pyviz.org/attractors/attractors.html",
       "tags": []
     },
-
+    {
+      "slug": "FractalFilter",
+      "name": "Fractal Filter",
+      "description": "A simple fractal filter found in Lew, R. R., & Schauf, C. L. (1990). Fractal filtering of channel data. Biochimica et Biophysica Acta (BBA) - Biomembranes, 1023(2), 305–311. doi:10.1016/0005-2736(90)90427-p ",
+      "tags": []
+    },
+    {
+      "slug": "Rabits",
+      "name": "Rabits",
+      "description": "This module turns logistic map to an oscillator",
+      "tags": []
+    }
   ]
 }

@@ -11,3 +11,5 @@ extern Plugin* pluginInstance;
 extern Model* modelGraN;
 extern Model* modelFrac;
 extern Model* modelAttractor;
+extern Model* modelFractalFilter;
+extern Model* modelRabits;
