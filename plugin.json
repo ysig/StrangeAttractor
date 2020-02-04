@@ -16,13 +16,13 @@
     {
       "slug": "GraN",
       "name": "gran",
-      "description": "",
+      "description": " A port of Grainman: https://www.youtube.com/watch?v=1zf42x9pcno",
       "tags": []
     },
     {
       "slug": "Frac",
-      "name": "Fractal oscilator",
-      "description": "",
+      "name": "Fractal oscillator",
+      "description": "Two fractal signals, takagi and Weierstrass.",
       "tags": []
     },
     {
