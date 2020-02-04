@@ -27,3 +27,9 @@ For that we developed almost all the attractors found [here](https://examples.py
 
 I'am new in audio-synthesis with vcv-rack so all patches are under development.
 I will be happy to receive comments and concerns if any.
+
+# Rabits
+Rabits is vco based on the logistic growth function responsible for a lot of fundamental fractal obsevation.
+Contains four parameters (r, Rate-of-Change (similar to frequency), volume and reset-button).
+For this module I was inspired by [a veritasium video](https://www.youtube.com/watch?v=ovJcsL7vyrk) and [jonnyhyman git page](https://github.com/jonnyhyman/Chaos)
+(Note points interpolated with lines and this gives a sort of triangular harmonic texture to the sound).
